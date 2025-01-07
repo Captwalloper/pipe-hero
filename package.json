@@ -4,11 +4,11 @@
   "homepage": "https://captwalloper.github.io/pipe-hero",
   "type": "module",
   "scripts": {
-    "start": "npx parcel --port=1488 index.html --no-cache --no-autoinstall",
+    "start": "npx parcel --port=1488 src/index.html --no-cache --no-autoinstall",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "prebuild": "rm -rf dist",
-    "build": "npx parcel build index.html --dist-dir dist --public-url /pipe-hero",
+    "build": "npx parcel build src/index.html --dist-dir dist --public-url /pipe-hero",
     "postbuild": "gh-pages -d dist"
   },
   "dependencies": {
