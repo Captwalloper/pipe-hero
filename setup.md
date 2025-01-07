@@ -14,7 +14,10 @@ To manage node runtime & package manager, [install nvm][1]
 * `yarn`
 * `yarn run` // lists all scripts
 
-## Run
+## Run (Local)
 `yarn run start`
+
+## Github Pages
+`yarn run deploy`
 
 [1]: https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating
