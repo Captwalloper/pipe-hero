@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "start": "npx parcel --port=1488 src/index.html --no-cache --no-autoinstall",
+    "start": "npx parcel --port=1488 index.html --no-cache --no-autoinstall",
     "prebuild": "rm -rf dist",
-    "build": "npx parcel build src/index.html --dist-dir dist --public-url /stratagem-hero",
+    "build": "npx parcel build index.html --dist-dir dist --public-url /stratagem-hero",
     "postbuild": "gh-pages -d dist"
   },
   "dependencies": {
