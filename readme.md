@@ -38,6 +38,6 @@ Inspired by (and forked from) [Strategem Hero implementation by Dmytro Vasylkivs
 [1]: assets/preview-1.png
 [2]: assets/preview-2.png
 [3]: assets/preview-3.png
-[4]: https://drizzer14.github.io/stratagem-hero
+[4]: https://captwalloper.github.io/stratagem-hero
 [5]: https://github.com/drizzer14/stratagem-hero
 [6]: ./setup.md
