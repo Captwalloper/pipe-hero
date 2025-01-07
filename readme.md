@@ -30,7 +30,7 @@ The intent was to replicate it as closely as possible in looks and behaviour.
 
 Built with React 18 and TypeScript 5 just for funsies.
 
----
+--- 
 
 Inspired by (and forked from) [Strategem Hero implementation by Dmytro Vasylkivskyi][5]
 
